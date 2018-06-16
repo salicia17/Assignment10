@@ -21,4 +21,5 @@ The following advanced user story is optional:
 # Assignment10 - Assignment
 
 The following criteria has been met:
+
 Required: Challenge 1.0: Hello, Shodan
